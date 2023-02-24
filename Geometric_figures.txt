@@ -1,0 +1,4 @@
+Name: Square: X = 4; Y = 5; length = 10;
+Name: Rectangle: X = 4; Y = 30; length1 = 15; length2 = 8; 
+Name: Circle: X = 23; Y = 10; radius = 6;
+Name: Ellipse: X = 23; Y = 30; semi-axis1 = 6; semi-axis2 = 10;
